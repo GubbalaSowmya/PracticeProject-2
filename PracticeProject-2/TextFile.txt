@@ -1,0 +1,6 @@
+﻿Name    - class - Age
+sowmya  - 10, Age: 20
+sravya   - 9, Age: 15 
+sharu    - 8, Age: 14
+balu     - 7, Age: 12
+bablu    - 6, Age: 10
